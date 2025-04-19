@@ -109,6 +109,5 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
 
 <div align="center">
   <img src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0" width="700" />
-
-::contentReference[oaicite:0]{index=0}
+</div>
  
