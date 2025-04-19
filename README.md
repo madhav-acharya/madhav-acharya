@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
- <img src="/octocat-1745053084598.png" width="500" alt="Madhav Acharya's Avatar" />
+ <img src="/octocat-1745053084598.png" width="300" alt="Madhav Acharya's Avatar" />
 </div>
 
 ## 🧑‍💻 About Me
