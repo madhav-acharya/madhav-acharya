@@ -96,6 +96,11 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-acharya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" width="90%" />
 </div>
 
+## 📊 Contribution Graph 
+<img align="left"  width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-acharya&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Madhav's Contribution Graph" />
+
+<br clear="left"/>
+
 ## 🤝 Let's Connect
 
 <div align="center">
