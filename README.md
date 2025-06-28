@@ -70,8 +70,6 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-
-
 ### Tools & Platforms
 
 <p align="center">
@@ -82,19 +80,27 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhav-acharya&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Madhav's%20GitHub%20Stats" width="90%" />
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-acharya&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="90%" />
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-acharya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" width="90%" />
 </div>
+
+---
 
 ## 📊 Contribution Graph 
 <img align="left"  width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-acharya&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Madhav's Contribution Graph" />
@@ -107,6 +113,19 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=madhav-acharya&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
+
+---
+
+<!-- Achievements Section -->
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=madhav-acharya&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+
+</div>
+
+---
 
 
 ## 🤝 Let's Connect
