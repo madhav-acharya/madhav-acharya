@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,0000FF&height=300&section=header&text=👨‍💻%20Madhav%20Acharya%20&fontSize=80&fontAlignY=45&fontColor=FFFFFF&desc=💻%20MERN%20Stack%20Developer%20%7C%20🌱%20Continuous%20Learner&descSize=20&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,0000FF&height=120&section=header&text=👨‍💻%20Madhav%20Acharya%20&fontSize=40&fontAlignY=45&fontColor=FFFFFF&desc=💻%20MERN%20Stack%20Developer%20%7C%20🌱%20Continuous%20Learner&descSize=16&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
+  <img align="right" alt="Coding" width="400" height="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 </div>
 
 Passionate MERN stack developer from Nepal with a keen interest in building scalable web applications. Always eager to learn new technologies and improve my skills.
@@ -85,19 +85,19 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhav-acharya&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Madhav's%20GitHub%20Stats" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-acharya&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Madhav's%20GitHub%20Stats" width="50%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-acharya&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-acharya&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="50%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-acharya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-acharya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" width="50%" />
 </div>
 
 ---
@@ -113,6 +113,12 @@ Passionate MERN stack developer from Nepal with a keen interest in building scal
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=madhav-acharya&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav-acharya&theme=radical&hide_border=true" />
+</div>
 
 ---
 
