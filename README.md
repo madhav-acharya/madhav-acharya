@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,0000FF&height=120&section=header&text=👨‍💻%20Madhav%20Acharya%20&fontSize=40&fontAlignY=45&fontColor=FFFFFF&desc=💻%20MERN%20Stack%20Developer%20%7C%20🌱%20Continuous%20Learner&descSize=16&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,0000FF&height=120&section=header&text=👨‍💻%20Madhav%20Acharya%20&fontSize=40&fontAlignY=45&fontColor=FFFFFF&desc=💻%20Full%20Stack%20Developer%20%7C%20🌱%20Continuous%20Learner&descSize=16&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhav-acharya&label=Profile%20Views&color=2962FF&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<div align="center">
- <img src="/octocat-1745053084598.png" width="300" alt="Madhav Acharya's Avatar" />
-</div>
 
 ## 🧑‍💻 About Me
 
