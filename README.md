@@ -6,20 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=madhav-acharya&label=Profile%20Views&color=2962FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 🧑‍💻 About Me
-
-<div align="center">
-  <img align="right" alt="Coding" width="400" height="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
-</div>
-
-Passionate MERN stack developer from Nepal with a keen interest in building scalable web applications. Always eager to learn new technologies and improve my skills.
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-- 💻 Currently working on website development projects
-- 💬 Ask me about React, Node.js, Express, Java
-- 📫 How to reach me: acharyamadan351@gmail.com
-
 ## 🛠️ Tech Stack
 
 ### Languages
