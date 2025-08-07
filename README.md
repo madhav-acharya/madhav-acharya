@@ -129,7 +129,7 @@
   <a href="https://www.linkedin.com/in/madan-acharya-512428249/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/madhav_acharya01/">
+  <a href="https://leetcode.com/u/madhav-acharya/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
