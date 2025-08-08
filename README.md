@@ -126,7 +126,7 @@
   <a href="https://github.com/madhav-acharya">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/madan-acharya-512428249/">
+  <a href="https://www.linkedin.com/in/madhav-acharya/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/madhav-acharya/">
