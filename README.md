@@ -133,10 +133,4 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
-
-<div align="center">
-  <p style="font-size:18px; margin-top:20px;">
-    "Building solutions that make a difference. Let's collaborate and innovate together."
-  </p>
-</div>
  
