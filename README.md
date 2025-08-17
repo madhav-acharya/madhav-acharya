@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=madhav-acharya&label=Profile%20Views&color=2962FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 ### Languages
 
