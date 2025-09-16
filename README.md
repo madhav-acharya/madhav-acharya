@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhav-acharya&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Madhav's%20GitHub%20Stats" width="50%" />
