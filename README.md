@@ -105,7 +105,6 @@
 
 ---
 
-<!-- Achievements Section -->
 <div align="center">
 
 ## 🏆 GitHub Achievements
